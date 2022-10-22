@@ -1,0 +1,10 @@
+C:\Users\1519-20\source\repos\Calculate\LibCal\bin\Debug\netstandard2.1\LibCal.deps.json
+C:\Users\1519-20\source\repos\Calculate\LibCal\bin\Debug\netstandard2.1\LibCal.dll
+C:\Users\1519-20\source\repos\Calculate\LibCal\bin\Debug\netstandard2.1\LibCal.pdb
+C:\Users\1519-20\source\repos\Calculate\LibCal\obj\Debug\netstandard2.1\LibCal.csproj.AssemblyReference.cache
+C:\Users\1519-20\source\repos\Calculate\LibCal\obj\Debug\netstandard2.1\LibCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1519-20\source\repos\Calculate\LibCal\obj\Debug\netstandard2.1\LibCal.AssemblyInfoInputs.cache
+C:\Users\1519-20\source\repos\Calculate\LibCal\obj\Debug\netstandard2.1\LibCal.AssemblyInfo.cs
+C:\Users\1519-20\source\repos\Calculate\LibCal\obj\Debug\netstandard2.1\LibCal.csproj.CoreCompileInputs.cache
+C:\Users\1519-20\source\repos\Calculate\LibCal\obj\Debug\netstandard2.1\LibCal.dll
+C:\Users\1519-20\source\repos\Calculate\LibCal\obj\Debug\netstandard2.1\LibCal.pdb
